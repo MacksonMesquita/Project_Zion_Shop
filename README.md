@@ -56,15 +56,15 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## ZAION SHOP
 
-You are more than welcome
+You are more than welcome 
 
-### What is Zion Shop ?
+### What is Zion Shop ? 🧭
 
 Zion, is a fictional and themed eccommerce, where you can find everything you need for your the day to day life.
 This repository offers you a unique visual experience, mixing technology and history, combining the power of online shopping
 and mysterious Egypt, where each subcategory is represented by a different Egyptian god and organized according to their respective characteristics.
 
-### Why do we use Egypt as a theme?
+### Why do we use Egypt as a theme? 😲
 
 Simple, Egypt was used as a base, since from the beginning, it revolutionized the way we see the world today. Thanks to Egypt, we learned construction, writing, agriculture techniques, we understood how its religion was formed and most important of all, Egypt left us the legacy of the economy, the market, exchanges, money and purchasing power.
 
@@ -75,7 +75,7 @@ Thus generating a thematic and totally original eccommerce, where the past and t
 
 ![](https://i.imgur.com/waxVImv.png)
 
-### Warnings!
+### Warnings! ⚠️
 
 #### It's worth remembering that everything you'll see here:
 
