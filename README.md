@@ -84,3 +84,4 @@ Thus generating a thematic and totally original eccommerce, where the past and t
 - It's completely fictional
 - It is not related to any other existing eccommerce
 - It was done during the learning process
+- Some contents was written in PT-BR
