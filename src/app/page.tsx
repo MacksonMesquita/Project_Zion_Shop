@@ -1,7 +1,5 @@
 "use client";
 
-import { FunctionTitle } from "@/components/title";
-
 export default function Home() {
-  return <FunctionTitle />;
+  return <h1>Hello</h1>;
 }
