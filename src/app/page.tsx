@@ -1,5 +1,17 @@
 "use client";
 
+import UserHoverCard from "@/components/Avatar";
+import { NavBar } from "@/components/NavBar/inndex";
+import { Title } from "@/components/Title";
+
 export default function Home() {
-  return <h1>Hello</h1>;
+  return (
+    <main>
+      <div className="flex items-center justify-center">
+        <NavBar />
+        <UserHoverCard />
+      </div>
+      <Title />
+    </main>
+  );
 }
